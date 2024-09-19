@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Presentation\obj\.store\.stage\3cl1rgvi.lex</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Presentation\obj\.store\.stage\3cl1rgvi.lex</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.7.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Presentation\obj\.store\.stage\3cl1rgvi.lex\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Presentation\obj\.store\.stage\3cl1rgvi.lex\dotnet-aspnet-codegenerator\7.0.12</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>

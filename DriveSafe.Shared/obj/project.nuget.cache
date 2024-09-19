@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PvXn90iXnTVxW+iX2VG3hpcjtlfVPIeapGuwFRtZ6mrMPM1Q15INkyjY8rIAW8ZwSJMYvgsPvh/9EDHPRZGbpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUIS\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\LUIS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\LUIS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

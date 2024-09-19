@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\files\\docs\\document-638600383264862640..pdf",
+      "PackagePath": "staticwebassets\\files\\docs\\document-638600383264862640..pdf"
+    },
+    {
+      "Id": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\files\\images\\image-638600373660451327..png",
+      "PackagePath": "staticwebassets\\files\\images\\image-638600373660451327..png"
+    },
+    {
+      "Id": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\files\\images\\image-638611431809429985..jpg",
+      "PackagePath": "staticwebassets\\files\\images\\image-638611431809429985..jpg"
+    },
+    {
+      "Id": "C:\\Users\\LUIS\\RiderProjects\\DriveSafe-BackEnd-main\\DriveSafe.Presentation\\wwwroot\\files\\images\\image-638611432024864123..gif",
+      "PackagePath": "staticwebassets\\files\\images\\image-638611432024864123..gif"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DriveSafe.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DriveSafe.Presentation.props",
+      "PackagePath": "build\\DriveSafe.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DriveSafe.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\DriveSafe.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DriveSafe.Presentation.props",
+      "PackagePath": "buildTransitive\\DriveSafe.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

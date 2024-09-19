@@ -1,0 +1,91 @@
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.deps.json
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfo.cs
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CopyComplete
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\refint\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v2.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\ref\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.deps.json
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfo.cs
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CopyComplete
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\refint\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo\Backend v4.0\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\ref\DriveSafe.Infraestructure.dll
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.deps.json
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.dll
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.pdb
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.dll
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.pdb
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfoInputs.cache
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfo.cs
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CopyComplete
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.dll
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\refint\DriveSafe.Infraestructure.dll
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.pdb
+D:\Users\Usuario\Documents\riderproejcts\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\ref\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.deps.json
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfo.cs
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CopyComplete
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\refint\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\ref\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.deps.json
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfo.cs
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CopyComplete
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\refint\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\OneDrive - Universidad Peruana de Ciencias\Desktop\Github Trabajo (Apps Web)\ProyectoFinal\Backend\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\ref\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.deps.json
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.dll
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\bin\Debug\net7.0\DriveSafe.Domain.pdb
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.AssemblyInfo.cs
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\refint\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.pdb
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\ref\DriveSafe.Infraestructure.dll
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSafe.Infraestructure.sourcelink.json
+C:\Users\LUIS\RiderProjects\DriveSafe-BackEnd-main\DriveSafe.Infraestructure\obj\Debug\net7.0\DriveSaf.D88E32D1.Up2Date
